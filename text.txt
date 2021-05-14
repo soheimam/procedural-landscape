@@ -1,0 +1,20 @@
+ @@@@@cc&&&&eeee&&cc@
+@@@@@@cc&&&&ee&&&ccc
+@@@@@@@cc&&&&&&&&ccc
+@@@@@@@@cc&&&&&&&&cc
+cccc@@@@@cc&&&&&&&cc
+cccccc@@@@cc&&&&&&&c
+&&&cccc@@@cc&&&&&&&c
+&&&&&ccc@@@cc&&&&&&&
+&&&&&&cc@@@@cc&&&&&&
+&&&&&&&cc@@@@cc&&&&&
+c&&&&&&&cc@@@cc&&&&&
+c&&&&&&&&cc@@@cc&&&e
+cc&&&&&&&&cc@@@cc&&e
+ccc&&&&&&&&cc@@@c&&&
+@ccc&&&ee&&&c@@@cc&&
+@@cc&&&eee&&&c@@@cc&
+@@@c&&&eeeee&cc@@@cc
+@@@cc&&eeeeee&cc@@@c
+@@@cc&eeeeeee&&c@@@@
+@@@cc&eeefffee&&c@@@
